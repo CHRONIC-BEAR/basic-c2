@@ -1,6 +1,4 @@
-#new client program that will run execute shell commands based on the input from the server programming
-#we will use the subprocess module for this
-#client socket for reverse shell
+#new client program that will execute shell commands based on the input from the server
 
 import socket
 import subprocess
