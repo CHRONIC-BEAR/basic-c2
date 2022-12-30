@@ -1,4 +1,3 @@
-#server socket for reverse shell
 import socket
 
 SERVER_IP = '192.168.1.105'
