@@ -3,4 +3,5 @@ A very basic c2 structured malware, utilizing a reverse shell connection to exec
 
 There are still some bugs and fixes to be implemented, however they will likely not be implemented in this repository.
 
-These programs were created as an exercise, and should not be used maliciously against any entity. \nI developed these for educational purposes only.
+These programs were created as an exercise, and should not be used maliciously against any entity. 
+I developed these for educational purposes only.
