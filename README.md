@@ -1,6 +1,6 @@
 # basic-revsh
 Simple python revshell POC.
-Includes features for basic command execution.
+Includes basic command execution capabilities.
 
 # revClient.py
 Sets up a listener on port n, waits for conection.
