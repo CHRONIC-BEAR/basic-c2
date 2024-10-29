@@ -1,4 +1,4 @@
-#new client program that will execute shell commands based on the input from the server
+#will execute shell commands based on the input from server
 
 import socket
 import subprocess
